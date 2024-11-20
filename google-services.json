@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "352920400108",
+    "project_id": "mwaks-ai",
+    "storage_bucket": "mwaks-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352920400108:android:bb0ae986acb0164ae1b5c9",
+        "android_client_info": {
+          "package_name": "com.mwaksai.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNnfIlu128luBn6N06wSD40WZ-bAJDSeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
